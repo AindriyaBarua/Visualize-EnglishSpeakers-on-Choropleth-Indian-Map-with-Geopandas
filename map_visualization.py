@@ -1,3 +1,9 @@
+"""
+Developed by Aindriya Barua in October, 2021
+Thoughrough explantion of the code can be found in on my medium blog: 
+https://medium.com/@barua.aindriya/visualize-data-on-a-choropleth-map-with-geopandas-and-matplotlib-924cedd8e9cb
+"""
+
 # required imports
 
 import xlrd
